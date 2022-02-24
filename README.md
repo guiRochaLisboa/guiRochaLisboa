@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 Hoje trabalho com Desenvolvimento Mobile e Suporte com SQL Server
-- 📈 Estou estudando desenvolvimento WEB com JavaScript
+- 📈 Estou focado em me aprofundar cada vez mais em desenvolvimento Mobile tanto nativo quanto híbrido.
 - 🤨 Sempre vejo minhas dificuldades como novas oportunidades para apredizado, tanto na vida pessoal como na programação
 - ⚽ Adoro praticar esportes seja futebol,atletismo ou até mesmo artes marciais
 - 🚧 Este perfil está em constante desenvolvimento e seu comentário é muito importante para mim...
