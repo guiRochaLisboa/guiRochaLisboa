@@ -2,9 +2,8 @@
 
 
 - 👨‍💻 Hoje trabalho com Desenvolvimento Mobile e Suporte com SQL Server
-- 📈 Estou focado em me aprofundar cada vez mais em desenvolvimento Mobile tanto nativo quanto híbrido.
-- 🤨 Sempre vejo minhas dificuldades como novas oportunidades para apredizado, tanto na vida pessoal como na programação
-- ⚽ Adoro praticar esportes seja futebol,atletismo ou até mesmo artes marciais
+- 📈 Estou focado em me aprofundar cada vez mais em desenvolvimento Mobile tanto de forma nativo focado no desenvolvimento Android com Java e Koltin, quanto híbrido utilizando de framework como o Flutter.
+- 🤨 Sempre vejo minhas dificuldades como novas oportunidades para apredizado, tanto na vida pessoal como na programação.
 - 🚧 Este perfil está em constante desenvolvimento e seu comentário é muito importante para mim...
 - 😎 Muito obrigado pela visita espero te ver em breve novamente!!
 
