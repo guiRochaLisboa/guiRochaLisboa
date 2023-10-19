@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 Atualmente não estou atuando na área, porém já tenho experiência no mercado de TI desde 2020.
-- 📈 Estou focado em me aprofundar cada vez mais em desenvolvimento Mobile tanto de forma nativo focado no desenvolvimento Android com Java e Koltin, quanto híbrido utilizando de framework como o Flutter.
+- 📈 Estou focado em me aprofundar cada vez mais em desenvolvimento nativo focado no em Android com Java e Koltin.
 - 🤨 Sempre vejo minhas dificuldades como novas oportunidades para apredizado, tanto na vida pessoal como na programação.
 - 🚧 Este perfil está em constante desenvolvimento e seu comentário é muito importante para mim...
 - 😎 Muito obrigado pela visita espero te ver em breve novamente!!
